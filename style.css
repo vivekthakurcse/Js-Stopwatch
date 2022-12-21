@@ -15,6 +15,7 @@ body{background: #fffc6a;}
     justify-content: center;
     align-items: center;    
     margin:auto;
+    margin-top:15%;
 }
 .wrapper h2{font-size: 2em;}
 .wrapper span{font-size: 25px;font-weight: 500;}
